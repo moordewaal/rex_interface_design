@@ -1,0 +1,7 @@
+-in:file:s 4LC9.pdb
+
+-relax:fast
+
+-nstruct 3
+
+-out:file:scorefile relax.sc
